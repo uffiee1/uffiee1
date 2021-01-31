@@ -1,16 +1,26 @@
-### Hi there 👋
+### Hi there, I'm [Ufuk Angay!](https://github.com/uffiee1) 👋
 
-<!--
-**uffiee1/uffiee1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://instagram.com/uffiee1">
+  <img align="left" alt="Ufuk Angay's Instagram" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
 
-Here are some ideas to get you started:
+<a href="https://twitter.com/uffiee1">
+  <img align="left" alt="Ufuk Angay's Twitter" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.linkedin.com/in/uangay/">
+  <img align="left" alt="Ufuk Angay's Linkdein" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+
+<a href="https://github.com/uffiee1">
+  <img align="left" alt="Ufuk Angay's Github" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+
+<br />
+
+### Glad to see you here! 🤩 &nbsp;
+
+- 🌱 I’m currently learning Flutter
+- 💬 Ask me about anything [here](https://github.com/uffiee1/uffiee1/issues)
+- 📫 How to reach me: u.angay@gmail.com <br>
+- 🥅 2021 Goals: Contribute more to Open Source projects
