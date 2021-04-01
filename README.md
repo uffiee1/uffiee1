@@ -20,7 +20,7 @@
 
 ### Glad to see you here! 🤩 &nbsp;
 
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning Kotlin
 - 💬 Ask me about anything [here](https://github.com/uffiee1/uffiee1/issues)
 - 📫 How to reach me: u.angay@gmail.com <br>
 - 🥅 2021 Goals: Contribute more to Open Source projects
