@@ -1,5 +1,14 @@
-### Hi there, I'm [Ufuk Angay!](https://github.com/uffiee1) 👋
+<h1 align="center">Hi 👋, I'm Ufuk Angay</h1>
 
+### Glad to see you here! 🤩 &nbsp;
+
+- 🌱 I’m currently learning **Kotlin, SwiftUI and Flutter**
+- 👯 I’m looking to collaborate with **other content creators**
+- 💬 Ask me about anything [here](https://github.com/uffiee1/uffiee1/issues)
+- 📫 How to reach me: u.angay@gmail.com <br>
+- 🥅 2021 Goals: Contribute more to Open Source projects
+
+### Connect with me:
 <a href="https://instagram.com/uffiee1">
   <img align="left" alt="Ufuk Angay's Instagram" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
@@ -15,12 +24,4 @@
 <a href="https://github.com/uffiee1">
   <img align="left" alt="Ufuk Angay's Github" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-
 <br />
-
-### Glad to see you here! 🤩 &nbsp;
-
-- 🌱 I’m currently learning Kotlin
-- 💬 Ask me about anything [here](https://github.com/uffiee1/uffiee1/issues)
-- 📫 How to reach me: u.angay@gmail.com <br>
-- 🥅 2021 Goals: Contribute more to Open Source projects
