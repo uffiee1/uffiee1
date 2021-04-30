@@ -2,6 +2,8 @@
 
 ### Glad to see you here! 🤩 &nbsp;
 
+I am a student who is studying Software Engineering at Fontys University of Applied Sciences.
+
 - 🌱 I’m currently learning **Kotlin, SwiftUI and Flutter**
 - 👯 I’m looking to collaborate with **other content creators**
 - 💬 Ask me about anything [here](https://github.com/uffiee1/uffiee1/issues)
